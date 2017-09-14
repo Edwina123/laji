@@ -1,22 +1,14 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>辣鸡本人(laji.com)</title>
+</head>
+<body>
+ 
+<h1>我的第一个HTML,嘻嘻</h1>
+ 
+<p>Hello World</p>
+ 
+</body>
+</html>
